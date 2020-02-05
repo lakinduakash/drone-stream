@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">test</string>
+    <string name="main_play_button_contentDescription">Play</string>
+    <string name="control_panel_alert_save_photo_fail">Failed to save photo</string>
+    <string name="control_panel_alert_save_photo_success">Photo is saved to </string>
+</resources>
